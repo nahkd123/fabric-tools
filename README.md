@@ -12,6 +12,11 @@ Download this repository, import this repository into your workspace as regular 
 
 Load these tools by opening "External Tools Configuration...". After that, you can click on the arrow next to "Run External Tool" icon to select which tool to use.
 
+## "Getting started" for IntelliJ
+You might have a bit of luck with [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser) plugin. This plugin basically converts Eclipse launch configurations into IntelliJ launch configurations.
+
+If this does generates separate file based on ``.launch`` files, please open a new PR to get them included in this repository.
+
 ## Tools overview
 - "Generate Launch Configuration": This will create 2 ``.launch`` files in your selected project (one for client, another one for server). This also generates launch configurations inside subprojects, something Fabric Loom doesn't do.
 
