@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fabric-tools</name>
+	<comment>A collection of tools for Fabric modders that are using Eclipse IDE (and maybe Intellij, if you somehow managed to launch those .launch files)</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
